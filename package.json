@@ -1,0 +1,43 @@
+{
+  "_from": "gulp-px2rem-plugin",
+  "_id": "gulp-px2rem-plugin@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha1-vhOpeD+iZOfb82kmE3jbJz0Z974=",
+  "_location": "/gulp-px2rem-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gulp-px2rem-plugin",
+    "name": "gulp-px2rem-plugin",
+    "escapedName": "gulp-px2rem-plugin",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-px2rem-plugin/-/gulp-px2rem-plugin-0.4.0.tgz",
+  "_shasum": "be13a9783fa264e7dbf369261378db273d19f7be",
+  "_spec": "gulp-px2rem-plugin",
+  "_where": "C:\\Users\\terri\\Desktop\\项目\\src\\web\\XiLife.XDP.XEO2",
+  "author": {
+    "name": "nilhave"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "deprecated": false,
+  "description": "px to rem",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "gulp",
+    "px2rem "
+  ],
+  "name": "gulp-px2rem-plugin",
+  "version": "0.4.0"
+}
